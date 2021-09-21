@@ -5,7 +5,7 @@ require './thinkable'
 class Human < Animal
   
 # 変数の定義
-  attr_accessor :fullname, :age, :hobby
+  attr_accessor :hobby
 
 # 変数の初期化 
   def initialize(fullname,age,hobby)

@@ -1,5 +1,3 @@
-
-
 # モジュールでthinkメソッドを定義
 module Thinkable
   def think
